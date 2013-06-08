@@ -1,19 +1,21 @@
-/*  DepressedPress.com DP_PanelManager
+/*  DepressedPress.com, DP_PanelManager
 
-Author: Jim Davis, the Depressed Press of Boston
-Date: January 9, 2007
+Author: Jim Davis, the Depressed Press
+Created: January 9, 2007
 Contact: webmaster@depressedpress.com
 Website: www.depressedpress.com
 
 Full documentation can be found at:
-http://www.depressedpress.com/Content/Development/JavaScript/Extensions/
+http://depressedpress.com/javascript-extensions/
 
 DP_PanelManager provides features and abstractions to make DHTML design simpler.
 
 Event Abstraction code (the addEvent(), removeEvent(), and handleEvent() methods) is based in large part on code authored by Dean Edwards (2005, http://dean.edwards.name/weblog/2005/10/add-event/, input from Tino Zijdel, Matthias Miller, Diego Perini)
 
 
-Copyright (c) 1996-2006, The Depressed Press of Boston (depressedpress.com)
++ + + + + + + + LEGAL NOTICE + + + + + + + +
+
+Copyright (c) 1996-2014, The Depressed Press (depressedpress.com)
 
 All rights reserved.
 
@@ -23,7 +25,7 @@ Redistribution and use in source and binary forms, with or without modification,
 
 +) Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
 
-+) Neither the name of the DEPRESSED PRESS OF BOSTON (DEPRESSEDPRESS.COM) nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
++) Neither the name of the DEPRESSED PRESS (DEPRESSEDPRESS.COM) nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
