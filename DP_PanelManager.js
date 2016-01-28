@@ -733,7 +733,7 @@ DP_PanelManager.prototype.addPanel = function(El, DefaultDisplay) {
 		if ( isNaN(Delay) ) { Delay = 0 };
 			// If a Delay is set, postpone the call.
 		if ( Delay > 0 ) {
-			window.setTimeout( function() {Panel.setOpacity(Opacity) }, Delay);
+			window.setTimeout( function() {Panel.setOpacity(Opacity, 0, Duration) }, Delay);
 			return;
 		};
 
